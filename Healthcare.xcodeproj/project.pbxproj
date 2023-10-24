@@ -10,6 +10,7 @@
 		D21C387C2AE66DCC001BB357 /* onboardingItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = D21C387B2AE66DCC001BB357 /* onboardingItems.swift */; };
 		D21C38A42AE6FC44001BB357 /* LogIn_View.swift in Sources */ = {isa = PBXBuildFile; fileRef = D21C38A32AE6FC44001BB357 /* LogIn_View.swift */; };
 		D21C38A82AE72103001BB357 /* Sign_UpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D21C38A72AE72103001BB357 /* Sign_UpView.swift */; };
+		D22D4D332AE79C37005DA0DB /* LogIn_Success.swift in Sources */ = {isa = PBXBuildFile; fileRef = D22D4D322AE79C37005DA0DB /* LogIn_Success.swift */; };
 		D25AA0142AE580E300D97D06 /* HealthcareApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D25AA0132AE580E300D97D06 /* HealthcareApp.swift */; };
 		D25AA0162AE580E300D97D06 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D25AA0152AE580E300D97D06 /* ContentView.swift */; };
 		D25AA0182AE580E400D97D06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D25AA0172AE580E400D97D06 /* Assets.xcassets */; };
@@ -23,6 +24,7 @@
 		D21C387B2AE66DCC001BB357 /* onboardingItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onboardingItems.swift; sourceTree = "<group>"; };
 		D21C38A32AE6FC44001BB357 /* LogIn_View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogIn_View.swift; sourceTree = "<group>"; };
 		D21C38A72AE72103001BB357 /* Sign_UpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sign_UpView.swift; sourceTree = "<group>"; };
+		D22D4D322AE79C37005DA0DB /* LogIn_Success.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogIn_Success.swift; sourceTree = "<group>"; };
 		D25AA0102AE580E300D97D06 /* Healthcare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Healthcare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D25AA0132AE580E300D97D06 /* HealthcareApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthcareApp.swift; sourceTree = "<group>"; };
 		D25AA0152AE580E300D97D06 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				D25AA0292AE5B13900D97D06 /* LogIn_SignUp_View.swift */,
 				D21C38A32AE6FC44001BB357 /* LogIn_View.swift */,
 				D21C38A72AE72103001BB357 /* Sign_UpView.swift */,
+				D22D4D322AE79C37005DA0DB /* LogIn_Success.swift */,
 			);
 			path = Authentication;
 			sourceTree = "<group>";
@@ -103,8 +106,8 @@
 		D25AA0212AE5813100D97D06 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				D21C38762AE658A7001BB357 /* Onboarding */,
 				D25AA0152AE580E300D97D06 /* ContentView.swift */,
+				D21C38762AE658A7001BB357 /* Onboarding */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 				D25AA0232AE581C800D97D06 /* OnboardingView.swift in Sources */,
 				D25AA0162AE580E300D97D06 /* ContentView.swift in Sources */,
 				D21C38A82AE72103001BB357 /* Sign_UpView.swift in Sources */,
+				D22D4D332AE79C37005DA0DB /* LogIn_Success.swift in Sources */,
 				D21C38A42AE6FC44001BB357 /* LogIn_View.swift in Sources */,
 				D25AA0142AE580E300D97D06 /* HealthcareApp.swift in Sources */,
 				D25AA0252AE5861100D97D06 /* SplashScreenView.swift in Sources */,
