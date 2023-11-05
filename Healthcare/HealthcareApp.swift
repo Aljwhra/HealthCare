@@ -12,7 +12,8 @@ struct HealthcareApp: App {
     var body: some Scene {
         WindowGroup {
           //  ContentView()
-            SplashScreenView()
+           SplashScreenView()
+         //   Reset_Password_Phone()
         }
     }
 }
