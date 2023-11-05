@@ -31,6 +31,9 @@
 		D2BD18912AF7672F00E64D49 /* My_Cart_View.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BD18902AF7672F00E64D49 /* My_Cart_View.swift */; };
 		D2BD18932AF7676B00E64D49 /* Card_My _Cart.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BD18922AF7676B00E64D49 /* Card_My _Cart.swift */; };
 		D2BD18952AF772B800E64D49 /* Payment_Success_Cart_View.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BD18942AF772B800E64D49 /* Payment_Success_Cart_View.swift */; };
+		D2BD18972AF7AD5C00E64D49 /* AmbulanceـView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BD18962AF7AD5C00E64D49 /* AmbulanceـView.swift */; };
+		D2BD18992AF7B67300E64D49 /* Profile_View.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BD18982AF7B67300E64D49 /* Profile_View.swift */; };
+		D2BD189B2AF7DF5E00E64D49 /* LogOut_PopUp_View.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2BD189A2AF7DF5E00E64D49 /* LogOut_PopUp_View.swift */; };
 		D2E2A47B2AF260600016C5D9 /* Home_View.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E2A47A2AF260600016C5D9 /* Home_View.swift */; };
 		D2E2A47D2AF261880016C5D9 /* Reset_Password.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E2A47C2AF261880016C5D9 /* Reset_Password.swift */; };
 		D2E2A47F2AF26A020016C5D9 /* Reset_Password_Email.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E2A47E2AF26A020016C5D9 /* Reset_Password_Email.swift */; };
@@ -90,6 +93,9 @@
 		D2BD18902AF7672F00E64D49 /* My_Cart_View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = My_Cart_View.swift; sourceTree = "<group>"; };
 		D2BD18922AF7676B00E64D49 /* Card_My _Cart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Card_My _Cart.swift"; sourceTree = "<group>"; };
 		D2BD18942AF772B800E64D49 /* Payment_Success_Cart_View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Payment_Success_Cart_View.swift; sourceTree = "<group>"; };
+		D2BD18962AF7AD5C00E64D49 /* AmbulanceـView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AmbulanceـView.swift"; sourceTree = "<group>"; };
+		D2BD18982AF7B67300E64D49 /* Profile_View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile_View.swift; sourceTree = "<group>"; };
+		D2BD189A2AF7DF5E00E64D49 /* LogOut_PopUp_View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogOut_PopUp_View.swift; sourceTree = "<group>"; };
 		D2E2A47A2AF260600016C5D9 /* Home_View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home_View.swift; sourceTree = "<group>"; };
 		D2E2A47C2AF261880016C5D9 /* Reset_Password.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reset_Password.swift; sourceTree = "<group>"; };
 		D2E2A47E2AF26A020016C5D9 /* Reset_Password_Email.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reset_Password_Email.swift; sourceTree = "<group>"; };
@@ -210,6 +216,9 @@
 				D2BD188E2AF75B0800E64D49 /* Drugs_Detail_View.swift */,
 				D2BD18902AF7672F00E64D49 /* My_Cart_View.swift */,
 				D2BD18942AF772B800E64D49 /* Payment_Success_Cart_View.swift */,
+				D2BD18962AF7AD5C00E64D49 /* AmbulanceـView.swift */,
+				D2BD18982AF7B67300E64D49 /* Profile_View.swift */,
+				D2BD189A2AF7DF5E00E64D49 /* LogOut_PopUp_View.swift */,
 				D2E2A48C2AF2FDDA0016C5D9 /* Components */,
 			);
 			path = View;
@@ -345,6 +354,7 @@
 				D2BD187D2AF6E25500E64D49 /* Message_View.swift in Sources */,
 				D2E2A4A42AF45BEB0016C5D9 /* Doctor_Detail_View.swift in Sources */,
 				D2BD18812AF6EA9C00E64D49 /* Popular_Articles.swift in Sources */,
+				D2BD18992AF7B67300E64D49 /* Profile_View.swift in Sources */,
 				D2E2A4B42AF5B8690016C5D9 /* Chat_Doctor_View.swift in Sources */,
 				D2BD18892AF7114900E64D49 /* Ad_Pharmacy_Box.swift in Sources */,
 				D2E2A4B82AF5DF460016C5D9 /* Video_Call_View.swift in Sources */,
@@ -372,6 +382,7 @@
 				D2E2A4BE2AF6BDB50016C5D9 /* Card_Docters_Schedule.swift in Sources */,
 				D2E2A47D2AF261880016C5D9 /* Reset_Password.swift in Sources */,
 				D21C38A42AE6FC44001BB357 /* LogIn_View.swift in Sources */,
+				D2BD18972AF7AD5C00E64D49 /* AmbulanceـView.swift in Sources */,
 				D2E2A48E2AF2FE130016C5D9 /* Header_Home.swift in Sources */,
 				D2E2A4942AF30ACD0016C5D9 /* Ad_Home_Box.swift in Sources */,
 				D2BD188D2AF7579F00E64D49 /* Product_on_Sale.swift in Sources */,
@@ -385,6 +396,7 @@
 				D2BD18952AF772B800E64D49 /* Payment_Success_Cart_View.swift in Sources */,
 				D2BD187F2AF6EA7100E64D49 /* Arcticles_View.swift in Sources */,
 				D2E2A4A02AF4366F0016C5D9 /* Recommended_Doctors.swift in Sources */,
+				D2BD189B2AF7DF5E00E64D49 /* LogOut_PopUp_View.swift in Sources */,
 				D2E2A4B22AF5B5D80016C5D9 /* Payment_Success_View.swift in Sources */,
 				D2E2A4C02AF6D7540016C5D9 /* Card_Schedule.swift in Sources */,
 				D25AA0252AE5861100D97D06 /* SplashScreenView.swift in Sources */,
